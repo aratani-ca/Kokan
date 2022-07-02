@@ -16,11 +16,10 @@ This app is in development, so I do get to see everything uploaded to the databa
 What it uploads:
   1. Your authenticated email and phone number.
   2. A list of the emails and phone numbers of all your contacts (without names). This is for the server to find your contacts and link you with them.
-  3. Once you are linked with a contact, the app will upload your "card", which should contain your contact information. It is delivered to your contact and deleted. It is stored without encryption in the server (to be fixed in the future).
+  3. Once you are linked with a contact, the app will upload your "card", which should contain your contact information and your photo.
 
 What it does NOT upload:
-  1. Your photo (yet).
-  2. Your GPS coordinates.
-  3. Any unique identifier for online marketing, or things like that.
+  1. Your GPS coordinates.
+  2. Any unique identifier for online marketing, or things like that.
 
-The deletion process is still manual, so you have to send me an email requesting to delete your data. You'll have to use the authenticated email address to prove your identity.
+If you delete your profile from within the app all of the information about you should be automatically deleted.
